@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "asciidoctor/asciidoctor.org",
+    "stargazers_count": 306,
+    "open_issues_count": 58,
+    "forks_count": 814
+  },
+  {
+    "full_name": "raspberrypi/documentation",
+    "stargazers_count": 4683,
+    "open_issues_count": 22,
+    "forks_count": 1903
+  },
+  {
+    "full_name": "ctolkmit/jsdoc3-maven-plugin",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "Huluvu424242/jsdoc3-maven-plugin",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "enpit/chateau-bouble",
     "stargazers_count": 3,
     "open_issues_count": 6,
@@ -19,27 +43,27 @@
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 43889,
-    "open_issues_count": 613,
-    "forks_count": 2114
+    "stargazers_count": 43987,
+    "open_issues_count": 629,
+    "forks_count": 2121
   },
   {
     "full_name": "codemistic/General-Projects",
     "stargazers_count": 42,
-    "open_issues_count": 49,
-    "forks_count": 230
+    "open_issues_count": 46,
+    "forks_count": 237
   },
   {
     "full_name": "distributeaid/distributeaid.org",
     "stargazers_count": 24,
-    "open_issues_count": 56,
-    "forks_count": 30
+    "open_issues_count": 55,
+    "forks_count": 31
   },
   {
     "full_name": "AccessibleForAll/AccessibleWebDev",
-    "stargazers_count": 48,
-    "open_issues_count": 5,
-    "forks_count": 58
+    "stargazers_count": 52,
+    "open_issues_count": 0,
+    "forks_count": 61
   },
   {
     "full_name": "Huluvu424242/chateau-bouble",
@@ -49,9 +73,9 @@
   },
   {
     "full_name": "codemistic/HacktoberFest",
-    "stargazers_count": 134,
-    "open_issues_count": 42,
-    "forks_count": 122
+    "stargazers_count": 133,
+    "open_issues_count": 43,
+    "forks_count": 123
   },
   {
     "full_name": "Huluvu424242/stencil-component.example",
@@ -61,33 +85,33 @@
   },
   {
     "full_name": "EddieHubCommunity/LinkFree",
-    "stargazers_count": 1240,
-    "open_issues_count": 135,
-    "forks_count": 1179
+    "stargazers_count": 1261,
+    "open_issues_count": 136,
+    "forks_count": 1201
   },
   {
     "full_name": "akshitagit/JavaScript",
     "stargazers_count": 63,
-    "open_issues_count": 37,
-    "forks_count": 113
+    "open_issues_count": 38,
+    "forks_count": 114
   },
   {
     "full_name": "bembenk18/perpus-gratis",
     "stargazers_count": 7,
-    "open_issues_count": 4,
-    "forks_count": 14
+    "open_issues_count": 5,
+    "forks_count": 15
   },
   {
     "full_name": "dheeraj-2000/dsalgo",
     "stargazers_count": 84,
-    "open_issues_count": 145,
-    "forks_count": 423
+    "open_issues_count": 127,
+    "forks_count": 422
   },
   {
     "full_name": "ZoranPandovski/al-go-rithms",
-    "stargazers_count": 1237,
-    "open_issues_count": 69,
-    "forks_count": 1947
+    "stargazers_count": 1242,
+    "open_issues_count": 88,
+    "forks_count": 1965
   },
   {
     "full_name": "Huluvu424242/jenkinsmonitor",
@@ -128,14 +152,14 @@
   {
     "full_name": "modernweb-dev/rocket",
     "stargazers_count": 273,
-    "open_issues_count": 49,
+    "open_issues_count": 50,
     "forks_count": 44
   },
   {
     "full_name": "mumble-voip/mumble",
-    "stargazers_count": 5070,
+    "stargazers_count": 5074,
     "open_issues_count": 535,
-    "forks_count": 1008
+    "forks_count": 1005
   },
   {
     "full_name": "qaware/docker-java",
@@ -151,32 +175,8 @@
   },
   {
     "full_name": "jrsoftware/issrc",
-    "stargazers_count": 3084,
+    "stargazers_count": 3091,
     "open_issues_count": 31,
-    "forks_count": 781
-  },
-  {
-    "full_name": "jimmywarting/webtorrent-server-browser",
-    "stargazers_count": 20,
-    "open_issues_count": 2,
-    "forks_count": 6
-  },
-  {
-    "full_name": "satya164/web-worker-proxy",
-    "stargazers_count": 224,
-    "open_issues_count": 5,
-    "forks_count": 4
-  },
-  {
-    "full_name": "Rob--W/cors-anywhere",
-    "stargazers_count": 7096,
-    "open_issues_count": 79,
-    "forks_count": 3934
-  },
-  {
-    "full_name": "Swagger2Markup/swagger2markup",
-    "stargazers_count": 2402,
-    "open_issues_count": 77,
-    "forks_count": 384
+    "forks_count": 783
   }
 ]
