@@ -3,13 +3,13 @@
     "full_name": "asciidoctor/asciidoctor.org",
     "stargazers_count": 306,
     "open_issues_count": 58,
-    "forks_count": 814
+    "forks_count": 813
   },
   {
     "full_name": "raspberrypi/documentation",
-    "stargazers_count": 4683,
-    "open_issues_count": 22,
-    "forks_count": 1903
+    "stargazers_count": 4686,
+    "open_issues_count": 20,
+    "forks_count": 1904
   },
   {
     "full_name": "ctolkmit/jsdoc3-maven-plugin",
@@ -43,25 +43,25 @@
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 43987,
-    "open_issues_count": 629,
-    "forks_count": 2121
+    "stargazers_count": 44078,
+    "open_issues_count": 644,
+    "forks_count": 2135
   },
   {
     "full_name": "codemistic/General-Projects",
     "stargazers_count": 42,
     "open_issues_count": 46,
-    "forks_count": 237
+    "forks_count": 236
   },
   {
     "full_name": "distributeaid/distributeaid.org",
     "stargazers_count": 24,
-    "open_issues_count": 55,
+    "open_issues_count": 57,
     "forks_count": 31
   },
   {
     "full_name": "AccessibleForAll/AccessibleWebDev",
-    "stargazers_count": 52,
+    "stargazers_count": 53,
     "open_issues_count": 0,
     "forks_count": 61
   },
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "codemistic/HacktoberFest",
-    "stargazers_count": 133,
+    "stargazers_count": 134,
     "open_issues_count": 43,
     "forks_count": 123
   },
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "EddieHubCommunity/LinkFree",
-    "stargazers_count": 1261,
-    "open_issues_count": 136,
-    "forks_count": 1201
+    "stargazers_count": 1275,
+    "open_issues_count": 143,
+    "forks_count": 1212
   },
   {
     "full_name": "akshitagit/JavaScript",
@@ -97,21 +97,21 @@
   },
   {
     "full_name": "bembenk18/perpus-gratis",
-    "stargazers_count": 7,
+    "stargazers_count": 6,
     "open_issues_count": 5,
     "forks_count": 15
   },
   {
     "full_name": "dheeraj-2000/dsalgo",
-    "stargazers_count": 84,
-    "open_issues_count": 127,
-    "forks_count": 422
+    "stargazers_count": 82,
+    "open_issues_count": 126,
+    "forks_count": 420
   },
   {
     "full_name": "ZoranPandovski/al-go-rithms",
-    "stargazers_count": 1242,
-    "open_issues_count": 88,
-    "forks_count": 1965
+    "stargazers_count": 1244,
+    "open_issues_count": 70,
+    "forks_count": 1964
   },
   {
     "full_name": "Huluvu424242/jenkinsmonitor",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "MrKrishnaAgarwal/Git-CheatSheet",
-    "stargazers_count": 5,
+    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -134,7 +134,7 @@
   {
     "full_name": "qaware/testcontainers-java",
     "stargazers_count": 1,
-    "open_issues_count": 116,
+    "open_issues_count": 118,
     "forks_count": 2
   },
   {
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "modernweb-dev/rocket",
-    "stargazers_count": 273,
+    "stargazers_count": 275,
     "open_issues_count": 50,
     "forks_count": 44
   },
   {
     "full_name": "mumble-voip/mumble",
-    "stargazers_count": 5074,
+    "stargazers_count": 5077,
     "open_issues_count": 535,
-    "forks_count": 1005
+    "forks_count": 1006
   },
   {
     "full_name": "qaware/docker-java",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "jrsoftware/issrc",
-    "stargazers_count": 3091,
+    "stargazers_count": 3095,
     "open_issues_count": 31,
-    "forks_count": 783
+    "forks_count": 786
   }
 ]
