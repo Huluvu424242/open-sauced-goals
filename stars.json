@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "pcottle/learnGitBranching",
+    "stargazers_count": 25981,
+    "open_issues_count": 17,
+    "forks_count": 5412
+  },
+  {
     "full_name": "asciidoctor/asciidoctor.org",
     "stargazers_count": 306,
     "open_issues_count": 58,
-    "forks_count": 815
+    "forks_count": 816
   },
   {
     "full_name": "raspberrypi/documentation",
-    "stargazers_count": 4690,
+    "stargazers_count": 4689,
     "open_issues_count": 21,
-    "forks_count": 1902
+    "forks_count": 1905
   },
   {
     "full_name": "ctolkmit/jsdoc3-maven-plugin",
@@ -43,27 +49,27 @@
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 44184,
-    "open_issues_count": 648,
-    "forks_count": 2142
+    "stargazers_count": 44320,
+    "open_issues_count": 625,
+    "forks_count": 2149
   },
   {
     "full_name": "codemistic/General-Projects",
-    "stargazers_count": 42,
+    "stargazers_count": 41,
     "open_issues_count": 46,
-    "forks_count": 233
+    "forks_count": 230
   },
   {
     "full_name": "distributeaid/distributeaid.org",
     "stargazers_count": 25,
-    "open_issues_count": 58,
+    "open_issues_count": 59,
     "forks_count": 31
   },
   {
     "full_name": "AccessibleForAll/AccessibleWebDev",
     "stargazers_count": 53,
     "open_issues_count": 0,
-    "forks_count": 60
+    "forks_count": 59
   },
   {
     "full_name": "Huluvu424242/chateau-bouble",
@@ -73,7 +79,7 @@
   },
   {
     "full_name": "codemistic/HacktoberFest",
-    "stargazers_count": 133,
+    "stargazers_count": 132,
     "open_issues_count": 43,
     "forks_count": 123
   },
@@ -85,9 +91,9 @@
   },
   {
     "full_name": "EddieHubCommunity/LinkFree",
-    "stargazers_count": 1284,
-    "open_issues_count": 72,
-    "forks_count": 1221
+    "stargazers_count": 1306,
+    "open_issues_count": 70,
+    "forks_count": 1224
   },
   {
     "full_name": "akshitagit/JavaScript",
@@ -103,9 +109,9 @@
   },
   {
     "full_name": "dheeraj-2000/dsalgo",
-    "stargazers_count": 82,
+    "stargazers_count": 81,
     "open_issues_count": 126,
-    "forks_count": 419
+    "forks_count": 416
   },
   {
     "full_name": "ZoranPandovski/al-go-rithms",
@@ -153,12 +159,12 @@
     "full_name": "modernweb-dev/rocket",
     "stargazers_count": 275,
     "open_issues_count": 51,
-    "forks_count": 44
+    "forks_count": 45
   },
   {
     "full_name": "mumble-voip/mumble",
-    "stargazers_count": 5087,
-    "open_issues_count": 537,
+    "stargazers_count": 5093,
+    "open_issues_count": 539,
     "forks_count": 1007
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 103,
     "open_issues_count": 0,
     "forks_count": 9
-  },
-  {
-    "full_name": "jrsoftware/issrc",
-    "stargazers_count": 3097,
-    "open_issues_count": 31,
-    "forks_count": 785
   }
 ]
