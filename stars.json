@@ -1,15 +1,27 @@
 [
   {
+    "full_name": "codespaces-examples/rust",
+    "stargazers_count": 80,
+    "open_issues_count": 3,
+    "forks_count": 42
+  },
+  {
+    "full_name": "franneck94/VSCodeGuide",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 13
+  },
+  {
     "full_name": "cyclic-software/starter-react-app",
     "stargazers_count": 4,
     "open_issues_count": 1,
-    "forks_count": 479
+    "forks_count": 521
   },
   {
     "full_name": "pcottle/learnGitBranching",
-    "stargazers_count": 26135,
+    "stargazers_count": 26156,
     "open_issues_count": 17,
-    "forks_count": 5430
+    "forks_count": 5432
   },
   {
     "full_name": "asciidoctor/asciidoctor.org",
@@ -19,9 +31,9 @@
   },
   {
     "full_name": "raspberrypi/documentation",
-    "stargazers_count": 4703,
+    "stargazers_count": 4706,
     "open_issues_count": 21,
-    "forks_count": 1907
+    "forks_count": 1906
   },
   {
     "full_name": "ctolkmit/jsdoc3-maven-plugin",
@@ -55,9 +67,9 @@
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 44904,
-    "open_issues_count": 673,
-    "forks_count": 2188
+    "stargazers_count": 45133,
+    "open_issues_count": 676,
+    "forks_count": 2196
   },
   {
     "full_name": "codemistic/General-Projects",
@@ -67,15 +79,15 @@
   },
   {
     "full_name": "distributeaid/distributeaid.org",
-    "stargazers_count": 25,
-    "open_issues_count": 49,
+    "stargazers_count": 26,
+    "open_issues_count": 55,
     "forks_count": 31
   },
   {
     "full_name": "AccessibleForAll/AccessibleWebDev",
-    "stargazers_count": 65,
-    "open_issues_count": 3,
-    "forks_count": 60
+    "stargazers_count": 67,
+    "open_issues_count": 2,
+    "forks_count": 61
   },
   {
     "full_name": "Huluvu424242/chateau-bouble",
@@ -97,9 +109,9 @@
   },
   {
     "full_name": "EddieHubCommunity/LinkFree",
-    "stargazers_count": 1347,
-    "open_issues_count": 88,
-    "forks_count": 1261
+    "stargazers_count": 1355,
+    "open_issues_count": 97,
+    "forks_count": 1263
   },
   {
     "full_name": "akshitagit/JavaScript",
@@ -121,7 +133,7 @@
   },
   {
     "full_name": "ZoranPandovski/al-go-rithms",
-    "stargazers_count": 1250,
+    "stargazers_count": 1252,
     "open_issues_count": 53,
     "forks_count": 1964
   },
@@ -146,7 +158,7 @@
   {
     "full_name": "qaware/testcontainers-java",
     "stargazers_count": 1,
-    "open_issues_count": 118,
+    "open_issues_count": 116,
     "forks_count": 2
   },
   {
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "modernweb-dev/rocket",
-    "stargazers_count": 284,
+    "stargazers_count": 285,
     "open_issues_count": 51,
     "forks_count": 45
-  },
-  {
-    "full_name": "mumble-voip/mumble",
-    "stargazers_count": 5125,
-    "open_issues_count": 534,
-    "forks_count": 1014
-  },
-  {
-    "full_name": "qaware/docker-java",
-    "stargazers_count": 1,
-    "open_issues_count": 43,
-    "forks_count": 2
   }
 ]
