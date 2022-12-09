@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "ikatyang/emoji-cheat-sheet",
+    "stargazers_count": 8995,
+    "open_issues_count": 41,
+    "forks_count": 3868
+  },
+  {
+    "full_name": "coryhouse/7-pillar-developer",
+    "stargazers_count": 57,
+    "open_issues_count": 1,
+    "forks_count": 3
+  },
+  {
     "full_name": "Huluvu424242/AoC",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -9,7 +21,7 @@
     "full_name": "codespaces-examples/rust",
     "stargazers_count": 80,
     "open_issues_count": 3,
-    "forks_count": 42
+    "forks_count": 44
   },
   {
     "full_name": "franneck94/VSCodeGuide",
@@ -19,27 +31,27 @@
   },
   {
     "full_name": "cyclic-software/starter-react-app",
-    "stargazers_count": 4,
+    "stargazers_count": 6,
     "open_issues_count": 1,
-    "forks_count": 584
+    "forks_count": 623
   },
   {
     "full_name": "pcottle/learnGitBranching",
-    "stargazers_count": 26201,
-    "open_issues_count": 17,
-    "forks_count": 5438
+    "stargazers_count": 26295,
+    "open_issues_count": 18,
+    "forks_count": 5447
   },
   {
     "full_name": "asciidoctor/asciidoctor.org",
-    "stargazers_count": 306,
+    "stargazers_count": 307,
     "open_issues_count": 58,
-    "forks_count": 818
+    "forks_count": 819
   },
   {
     "full_name": "raspberrypi/documentation",
-    "stargazers_count": 4709,
+    "stargazers_count": 4713,
     "open_issues_count": 22,
-    "forks_count": 1905
+    "forks_count": 1906
   },
   {
     "full_name": "ctolkmit/jsdoc3-maven-plugin",
@@ -73,26 +85,26 @@
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 45244,
+    "stargazers_count": 45342,
     "open_issues_count": 681,
-    "forks_count": 2202
+    "forks_count": 2210
   },
   {
     "full_name": "codemistic/General-Projects",
     "stargazers_count": 41,
     "open_issues_count": 46,
-    "forks_count": 224
+    "forks_count": 223
   },
   {
     "full_name": "distributeaid/distributeaid.org",
     "stargazers_count": 26,
-    "open_issues_count": 51,
+    "open_issues_count": 57,
     "forks_count": 31
   },
   {
     "full_name": "AccessibleForAll/AccessibleWebDev",
     "stargazers_count": 67,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 63
   },
   {
@@ -105,19 +117,19 @@
     "full_name": "codemistic/HacktoberFest",
     "stargazers_count": 131,
     "open_issues_count": 43,
-    "forks_count": 121
+    "forks_count": 120
   },
   {
     "full_name": "Huluvu424242/stencil-component.example",
     "stargazers_count": 1,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "EddieHubCommunity/LinkFree",
-    "stargazers_count": 1375,
-    "open_issues_count": 99,
-    "forks_count": 1270
+    "stargazers_count": 1387,
+    "open_issues_count": 98,
+    "forks_count": 1277
   },
   {
     "full_name": "akshitagit/JavaScript",
@@ -139,7 +151,7 @@
   },
   {
     "full_name": "ZoranPandovski/al-go-rithms",
-    "stargazers_count": 1256,
+    "stargazers_count": 1255,
     "open_issues_count": 53,
     "forks_count": 1962
   },
@@ -158,25 +170,13 @@
   {
     "full_name": "Huluvu424242/liona-slideshow",
     "stargazers_count": 2,
-    "open_issues_count": 4,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "qaware/testcontainers-java",
     "stargazers_count": 1,
     "open_issues_count": 116,
-    "forks_count": 2
-  },
-  {
-    "full_name": "Huluvu424242/plantuml-maven-plugin",
-    "stargazers_count": 6,
-    "open_issues_count": 5,
-    "forks_count": 6
-  },
-  {
-    "full_name": "Huluvu424242/nitrite-spring-boot-starter",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
     "forks_count": 2
   }
 ]
