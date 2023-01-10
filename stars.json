@@ -1,7 +1,7 @@
 [
   {
     "full_name": "StefanScherer/docker-cli-builder",
-    "stargazers_count": 215,
+    "stargazers_count": 217,
     "open_issues_count": 1,
     "forks_count": 33
   },
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "ikatyang/emoji-cheat-sheet",
-    "stargazers_count": 9189,
+    "stargazers_count": 9218,
     "open_issues_count": 44,
-    "forks_count": 3957
+    "forks_count": 3977
   },
   {
     "full_name": "coryhouse/7-pillar-developer",
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "franneck94/VSCodeGuide",
-    "stargazers_count": 9,
+    "stargazers_count": 12,
     "open_issues_count": 0,
     "forks_count": 15
   },
@@ -105,25 +105,25 @@
     "full_name": "cyclic-software/starter-react-app",
     "stargazers_count": 7,
     "open_issues_count": 2,
-    "forks_count": 909
+    "forks_count": 938
   },
   {
     "full_name": "pcottle/learnGitBranching",
-    "stargazers_count": 26444,
+    "stargazers_count": 26463,
     "open_issues_count": 19,
-    "forks_count": 5455
+    "forks_count": 5457
   },
   {
     "full_name": "asciidoctor/asciidoctor.org",
     "stargazers_count": 308,
     "open_issues_count": 58,
-    "forks_count": 817
+    "forks_count": 816
   },
   {
     "full_name": "raspberrypi/documentation",
-    "stargazers_count": 4741,
-    "open_issues_count": 22,
-    "forks_count": 1906
+    "stargazers_count": 4740,
+    "open_issues_count": 23,
+    "forks_count": 1907
   },
   {
     "full_name": "ctolkmit/jsdoc3-maven-plugin",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 46212,
-    "open_issues_count": 709,
-    "forks_count": 2259
+    "stargazers_count": 46363,
+    "open_issues_count": 710,
+    "forks_count": 2267
   },
   {
     "full_name": "codemistic/General-Projects",
@@ -170,13 +170,13 @@
   {
     "full_name": "distributeaid/distributeaid.org",
     "stargazers_count": 26,
-    "open_issues_count": 52,
+    "open_issues_count": 49,
     "forks_count": 31
   },
   {
     "full_name": "AccessibleForAll/AccessibleWebDev",
     "stargazers_count": 75,
-    "open_issues_count": 2,
+    "open_issues_count": 4,
     "forks_count": 64
   }
 ]
