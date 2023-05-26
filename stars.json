@@ -7,15 +7,15 @@
   },
   {
     "full_name": "slint-ui/slint",
-    "stargazers_count": 8184,
-    "open_issues_count": 293,
-    "forks_count": 260
+    "stargazers_count": 8213,
+    "open_issues_count": 299,
+    "forks_count": 261
   },
   {
     "full_name": "StefanScherer/docker-cli-builder",
-    "stargazers_count": 237,
+    "stargazers_count": 238,
     "open_issues_count": 2,
-    "forks_count": 34
+    "forks_count": 33
   },
   {
     "full_name": "Timothep/hello_aalgola",
@@ -38,7 +38,7 @@
   {
     "full_name": "github-craftwork/start-here",
     "stargazers_count": 90,
-    "open_issues_count": 32,
+    "open_issues_count": 34,
     "forks_count": 107
   },
   {
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "ikatyang/emoji-cheat-sheet",
-    "stargazers_count": 10303,
+    "stargazers_count": 10326,
     "open_issues_count": 52,
-    "forks_count": 4368
+    "forks_count": 4374
   },
   {
     "full_name": "coryhouse/7-pillar-developer",
@@ -99,7 +99,7 @@
     "full_name": "codespaces-examples/rust",
     "stargazers_count": 110,
     "open_issues_count": 4,
-    "forks_count": 77
+    "forks_count": 75
   },
   {
     "full_name": "franneck94/VSCodeGuide",
@@ -111,13 +111,13 @@
     "full_name": "cyclic-software/starter-react-app",
     "stargazers_count": 12,
     "open_issues_count": 4,
-    "forks_count": 2210
+    "forks_count": 2227
   },
   {
     "full_name": "pcottle/learnGitBranching",
-    "stargazers_count": 27587,
+    "stargazers_count": 27608,
     "open_issues_count": 24,
-    "forks_count": 5559
+    "forks_count": 5563
   },
   {
     "full_name": "asciidoctor/asciidoctor.org",
@@ -127,8 +127,8 @@
   },
   {
     "full_name": "raspberrypi/documentation",
-    "stargazers_count": 4845,
-    "open_issues_count": 69,
+    "stargazers_count": 4847,
+    "open_issues_count": 71,
     "forks_count": 1950
   },
   {
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 51381,
-    "open_issues_count": 816,
-    "forks_count": 2768
+    "stargazers_count": 51603,
+    "open_issues_count": 826,
+    "forks_count": 2778
   },
   {
     "full_name": "codemistic/General-Projects",
     "stargazers_count": 45,
     "open_issues_count": 45,
-    "forks_count": 207
+    "forks_count": 206
   },
   {
     "full_name": "distributeaid/distributeaid.org",
     "stargazers_count": 27,
-    "open_issues_count": 52,
+    "open_issues_count": 53,
     "forks_count": 32
   }
 ]
