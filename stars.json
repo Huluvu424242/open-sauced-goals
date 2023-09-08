@@ -1,9 +1,9 @@
 [
   {
     "full_name": "PhilippC/keepass2android",
-    "stargazers_count": 3977,
+    "stargazers_count": 3992,
     "open_issues_count": 1009,
-    "forks_count": 365
+    "forks_count": 366
   },
   {
     "full_name": "generate/generate-editorconfig",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "slint-ui/slint",
-    "stargazers_count": 9433,
-    "open_issues_count": 339,
-    "forks_count": 310
+    "stargazers_count": 9480,
+    "open_issues_count": 335,
+    "forks_count": 314
   },
   {
     "full_name": "StefanScherer/docker-cli-builder",
@@ -50,7 +50,7 @@
   {
     "full_name": "github-craftwork/start-here",
     "stargazers_count": 90,
-    "open_issues_count": 27,
+    "open_issues_count": 28,
     "forks_count": 110
   },
   {
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "ikatyang/emoji-cheat-sheet",
-    "stargazers_count": 10865,
+    "stargazers_count": 10885,
     "open_issues_count": 44,
-    "forks_count": 4428
+    "forks_count": 4430
   },
   {
     "full_name": "coryhouse/7-pillar-developer",
@@ -123,25 +123,25 @@
     "full_name": "cyclic-software/starter-react-app",
     "stargazers_count": 15,
     "open_issues_count": 5,
-    "forks_count": 2988
+    "forks_count": 3006
   },
   {
     "full_name": "pcottle/learnGitBranching",
-    "stargazers_count": 28309,
+    "stargazers_count": 28344,
     "open_issues_count": 25,
-    "forks_count": 5629
+    "forks_count": 5634
   },
   {
     "full_name": "asciidoctor/asciidoctor.org",
-    "stargazers_count": 310,
+    "stargazers_count": 309,
     "open_issues_count": 58,
     "forks_count": 822
   },
   {
     "full_name": "raspberrypi/documentation",
-    "stargazers_count": 4913,
-    "open_issues_count": 69,
-    "forks_count": 1953
+    "stargazers_count": 4916,
+    "open_issues_count": 65,
+    "forks_count": 1954
   },
   {
     "full_name": "ctolkmit/jsdoc3-maven-plugin",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 54484,
-    "open_issues_count": 681,
-    "forks_count": 2985
+    "stargazers_count": 54555,
+    "open_issues_count": 678,
+    "forks_count": 2994
   }
 ]
