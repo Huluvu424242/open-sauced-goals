@@ -1,8 +1,8 @@
 [
   {
     "full_name": "PhilippC/keepass2android",
-    "stargazers_count": 3999,
-    "open_issues_count": 1009,
+    "stargazers_count": 4006,
+    "open_issues_count": 1011,
     "forks_count": 366
   },
   {
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "slint-ui/slint",
-    "stargazers_count": 9516,
-    "open_issues_count": 341,
-    "forks_count": 315
+    "stargazers_count": 9550,
+    "open_issues_count": 344,
+    "forks_count": 316
   },
   {
     "full_name": "StefanScherer/docker-cli-builder",
@@ -51,7 +51,7 @@
     "full_name": "github-craftwork/start-here",
     "stargazers_count": 91,
     "open_issues_count": 28,
-    "forks_count": 110
+    "forks_count": 109
   },
   {
     "full_name": "multikoop/tag-manager",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "ikatyang/emoji-cheat-sheet",
-    "stargazers_count": 10909,
+    "stargazers_count": 10927,
     "open_issues_count": 44,
-    "forks_count": 4434
+    "forks_count": 4438
   },
   {
     "full_name": "coryhouse/7-pillar-developer",
@@ -123,24 +123,24 @@
     "full_name": "cyclic-software/starter-react-app",
     "stargazers_count": 15,
     "open_issues_count": 6,
-    "forks_count": 3028
+    "forks_count": 3053
   },
   {
     "full_name": "pcottle/learnGitBranching",
-    "stargazers_count": 28362,
-    "open_issues_count": 25,
+    "stargazers_count": 28377,
+    "open_issues_count": 26,
     "forks_count": 5643
   },
   {
     "full_name": "asciidoctor/asciidoctor.org",
-    "stargazers_count": 309,
+    "stargazers_count": 308,
     "open_issues_count": 58,
     "forks_count": 822
   },
   {
     "full_name": "raspberrypi/documentation",
-    "stargazers_count": 4915,
-    "open_issues_count": 62,
+    "stargazers_count": 4916,
+    "open_issues_count": 50,
     "forks_count": 1954
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 54623,
-    "open_issues_count": 679,
-    "forks_count": 2997
+    "stargazers_count": 54850,
+    "open_issues_count": 693,
+    "forks_count": 3006
   }
 ]
