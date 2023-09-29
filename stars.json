@@ -1,8 +1,8 @@
 [
   {
     "full_name": "PhilippC/keepass2android",
-    "stargazers_count": 4030,
-    "open_issues_count": 1016,
+    "stargazers_count": 4036,
+    "open_issues_count": 1020,
     "forks_count": 366
   },
   {
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "slint-ui/slint",
-    "stargazers_count": 9734,
+    "stargazers_count": 9784,
     "open_issues_count": 356,
     "forks_count": 320
   },
   {
     "full_name": "StefanScherer/docker-cli-builder",
-    "stargazers_count": 240,
+    "stargazers_count": 241,
     "open_issues_count": 2,
     "forks_count": 33
   },
@@ -50,7 +50,7 @@
   {
     "full_name": "github-craftwork/start-here",
     "stargazers_count": 91,
-    "open_issues_count": 29,
+    "open_issues_count": 30,
     "forks_count": 109
   },
   {
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "ikatyang/emoji-cheat-sheet",
-    "stargazers_count": 10985,
+    "stargazers_count": 10992,
     "open_issues_count": 44,
-    "forks_count": 4446
+    "forks_count": 4445
   },
   {
     "full_name": "coryhouse/7-pillar-developer",
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "codespaces-examples/rust",
-    "stargazers_count": 125,
+    "stargazers_count": 127,
     "open_issues_count": 5,
     "forks_count": 83
   },
@@ -123,24 +123,24 @@
     "full_name": "cyclic-software/starter-react-app",
     "stargazers_count": 15,
     "open_issues_count": 6,
-    "forks_count": 3140
+    "forks_count": 3163
   },
   {
     "full_name": "pcottle/learnGitBranching",
-    "stargazers_count": 28440,
+    "stargazers_count": 28464,
     "open_issues_count": 26,
-    "forks_count": 5657
+    "forks_count": 5661
   },
   {
     "full_name": "asciidoctor/asciidoctor.org",
-    "stargazers_count": 308,
+    "stargazers_count": 309,
     "open_issues_count": 57,
-    "forks_count": 820
+    "forks_count": 822
   },
   {
     "full_name": "raspberrypi/documentation",
-    "stargazers_count": 4923,
-    "open_issues_count": 39,
+    "stargazers_count": 4926,
+    "open_issues_count": 40,
     "forks_count": 1955
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 55143,
-    "open_issues_count": 701,
-    "forks_count": 3023
+    "stargazers_count": 55230,
+    "open_issues_count": 704,
+    "forks_count": 3030
   }
 ]
