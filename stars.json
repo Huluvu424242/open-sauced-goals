@@ -1,8 +1,8 @@
 [
   {
     "full_name": "PhilippC/keepass2android",
-    "stargazers_count": 4036,
-    "open_issues_count": 1020,
+    "stargazers_count": 4038,
+    "open_issues_count": 1021,
     "forks_count": 366
   },
   {
@@ -19,8 +19,8 @@
   },
   {
     "full_name": "slint-ui/slint",
-    "stargazers_count": 9784,
-    "open_issues_count": 356,
+    "stargazers_count": 9834,
+    "open_issues_count": 360,
     "forks_count": 320
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "ikatyang/emoji-cheat-sheet",
-    "stargazers_count": 10992,
+    "stargazers_count": 11004,
     "open_issues_count": 44,
     "forks_count": 4445
   },
@@ -123,13 +123,13 @@
     "full_name": "cyclic-software/starter-react-app",
     "stargazers_count": 15,
     "open_issues_count": 6,
-    "forks_count": 3163
+    "forks_count": 3180
   },
   {
     "full_name": "pcottle/learnGitBranching",
-    "stargazers_count": 28464,
+    "stargazers_count": 28485,
     "open_issues_count": 26,
-    "forks_count": 5661
+    "forks_count": 5660
   },
   {
     "full_name": "asciidoctor/asciidoctor.org",
@@ -140,8 +140,8 @@
   {
     "full_name": "raspberrypi/documentation",
     "stargazers_count": 4926,
-    "open_issues_count": 40,
-    "forks_count": 1955
+    "open_issues_count": 41,
+    "forks_count": 1957
   },
   {
     "full_name": "ctolkmit/jsdoc3-maven-plugin",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 55230,
-    "open_issues_count": 704,
-    "forks_count": 3030
+    "stargazers_count": 55296,
+    "open_issues_count": 691,
+    "forks_count": 3038
   }
 ]
