@@ -1,9 +1,9 @@
 [
   {
     "full_name": "PhilippC/keepass2android",
-    "stargazers_count": 4040,
-    "open_issues_count": 1021,
-    "forks_count": 366
+    "stargazers_count": 4047,
+    "open_issues_count": 1025,
+    "forks_count": 365
   },
   {
     "full_name": "generate/generate-editorconfig",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "slint-ui/slint",
-    "stargazers_count": 9848,
-    "open_issues_count": 361,
-    "forks_count": 320
+    "stargazers_count": 9875,
+    "open_issues_count": 367,
+    "forks_count": 321
   },
   {
     "full_name": "StefanScherer/docker-cli-builder",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "ikatyang/emoji-cheat-sheet",
-    "stargazers_count": 11006,
-    "open_issues_count": 44,
-    "forks_count": 4447
+    "stargazers_count": 11024,
+    "open_issues_count": 47,
+    "forks_count": 4449
   },
   {
     "full_name": "coryhouse/7-pillar-developer",
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "codespaces-examples/rust",
-    "stargazers_count": 127,
+    "stargazers_count": 128,
     "open_issues_count": 5,
     "forks_count": 83
   },
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "cyclic-software/starter-react-app",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 7,
-    "forks_count": 3207
+    "forks_count": 3228
   },
   {
     "full_name": "pcottle/learnGitBranching",
-    "stargazers_count": 28499,
+    "stargazers_count": 28522,
     "open_issues_count": 26,
-    "forks_count": 5661
+    "forks_count": 5662
   },
   {
     "full_name": "asciidoctor/asciidoctor.org",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "raspberrypi/documentation",
-    "stargazers_count": 4928,
-    "open_issues_count": 42,
-    "forks_count": 1956
+    "stargazers_count": 4930,
+    "open_issues_count": 43,
+    "forks_count": 1955
   },
   {
     "full_name": "ctolkmit/jsdoc3-maven-plugin",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 55354,
+    "stargazers_count": 55453,
     "open_issues_count": 695,
-    "forks_count": 3044
+    "forks_count": 3058
   }
 ]
