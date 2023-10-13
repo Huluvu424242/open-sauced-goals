@@ -1,8 +1,8 @@
 [
   {
     "full_name": "PhilippC/keepass2android",
-    "stargazers_count": 4047,
-    "open_issues_count": 1025,
+    "stargazers_count": 4056,
+    "open_issues_count": 1027,
     "forks_count": 365
   },
   {
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "slint-ui/slint",
-    "stargazers_count": 9875,
-    "open_issues_count": 367,
-    "forks_count": 321
+    "stargazers_count": 9904,
+    "open_issues_count": 370,
+    "forks_count": 322
   },
   {
     "full_name": "StefanScherer/docker-cli-builder",
-    "stargazers_count": 241,
+    "stargazers_count": 242,
     "open_issues_count": 2,
     "forks_count": 33
   },
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "ikatyang/emoji-cheat-sheet",
-    "stargazers_count": 11024,
-    "open_issues_count": 47,
-    "forks_count": 4449
+    "stargazers_count": 11040,
+    "open_issues_count": 48,
+    "forks_count": 4454
   },
   {
     "full_name": "coryhouse/7-pillar-developer",
@@ -123,12 +123,12 @@
     "full_name": "cyclic-software/starter-react-app",
     "stargazers_count": 16,
     "open_issues_count": 7,
-    "forks_count": 3228
+    "forks_count": 3237
   },
   {
     "full_name": "pcottle/learnGitBranching",
-    "stargazers_count": 28522,
-    "open_issues_count": 26,
+    "stargazers_count": 28535,
+    "open_issues_count": 25,
     "forks_count": 5662
   },
   {
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "raspberrypi/documentation",
-    "stargazers_count": 4930,
-    "open_issues_count": 43,
-    "forks_count": 1955
+    "stargazers_count": 4934,
+    "open_issues_count": 38,
+    "forks_count": 1956
   },
   {
     "full_name": "ctolkmit/jsdoc3-maven-plugin",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 55453,
-    "open_issues_count": 695,
-    "forks_count": 3058
+    "stargazers_count": 55536,
+    "open_issues_count": 726,
+    "forks_count": 3061
   }
 ]
