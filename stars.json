@@ -1,8 +1,32 @@
 [
   {
+    "full_name": "ricwtk/markee",
+    "stargazers_count": 4,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "stleary/JSON-java",
+    "stargazers_count": 4356,
+    "open_issues_count": 24,
+    "forks_count": 2574
+  },
+  {
+    "full_name": "up-for-grabs/up-for-grabs.net",
+    "stargazers_count": 4900,
+    "open_issues_count": 49,
+    "forks_count": 2105
+  },
+  {
+    "full_name": "iluwatar/java-design-patterns",
+    "stargazers_count": 84198,
+    "open_issues_count": 251,
+    "forks_count": 25666
+  },
+  {
     "full_name": "PhilippC/keepass2android",
-    "stargazers_count": 4056,
-    "open_issues_count": 1027,
+    "stargazers_count": 4063,
+    "open_issues_count": 1029,
     "forks_count": 365
   },
   {
@@ -19,9 +43,9 @@
   },
   {
     "full_name": "slint-ui/slint",
-    "stargazers_count": 9904,
-    "open_issues_count": 370,
-    "forks_count": 322
+    "stargazers_count": 9928,
+    "open_issues_count": 371,
+    "forks_count": 323
   },
   {
     "full_name": "StefanScherer/docker-cli-builder",
@@ -50,8 +74,8 @@
   {
     "full_name": "github-craftwork/start-here",
     "stargazers_count": 91,
-    "open_issues_count": 30,
-    "forks_count": 109
+    "open_issues_count": 31,
+    "forks_count": 108
   },
   {
     "full_name": "multikoop/tag-manager",
@@ -91,9 +115,9 @@
   },
   {
     "full_name": "ikatyang/emoji-cheat-sheet",
-    "stargazers_count": 11040,
+    "stargazers_count": 11055,
     "open_issues_count": 48,
-    "forks_count": 4454
+    "forks_count": 4453
   },
   {
     "full_name": "coryhouse/7-pillar-developer",
@@ -109,7 +133,7 @@
   },
   {
     "full_name": "codespaces-examples/rust",
-    "stargazers_count": 128,
+    "stargazers_count": 129,
     "open_issues_count": 5,
     "forks_count": 83
   },
@@ -123,13 +147,13 @@
     "full_name": "cyclic-software/starter-react-app",
     "stargazers_count": 16,
     "open_issues_count": 7,
-    "forks_count": 3237
+    "forks_count": 3263
   },
   {
     "full_name": "pcottle/learnGitBranching",
-    "stargazers_count": 28535,
+    "stargazers_count": 28558,
     "open_issues_count": 25,
-    "forks_count": 5662
+    "forks_count": 5664
   },
   {
     "full_name": "asciidoctor/asciidoctor.org",
@@ -139,9 +163,9 @@
   },
   {
     "full_name": "raspberrypi/documentation",
-    "stargazers_count": 4934,
-    "open_issues_count": 38,
-    "forks_count": 1956
+    "stargazers_count": 4936,
+    "open_issues_count": 41,
+    "forks_count": 1957
   },
   {
     "full_name": "ctolkmit/jsdoc3-maven-plugin",
@@ -154,29 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "enpit/chateau-bouble",
-    "stargazers_count": 4,
-    "open_issues_count": 6,
-    "forks_count": 1
-  },
-  {
-    "full_name": "PIUGroup/JavaAlgorithmen",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "Huluvu424242/JavaAlgorithmen",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "microsoft/playwright",
-    "stargazers_count": 55536,
-    "open_issues_count": 726,
-    "forks_count": 3061
   }
 ]
