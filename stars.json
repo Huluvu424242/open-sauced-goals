@@ -1,9 +1,9 @@
 [
   {
     "full_name": "mermaid-js/mermaid",
-    "stargazers_count": 67512,
-    "open_issues_count": 943,
-    "forks_count": 5853
+    "stargazers_count": 67608,
+    "open_issues_count": 946,
+    "forks_count": 5868
   },
   {
     "full_name": "ricwtk/markee",
@@ -13,26 +13,26 @@
   },
   {
     "full_name": "stleary/JSON-java",
-    "stargazers_count": 4481,
-    "open_issues_count": 38,
-    "forks_count": 2551
+    "stargazers_count": 4482,
+    "open_issues_count": 35,
+    "forks_count": 2552
   },
   {
     "full_name": "up-for-grabs/up-for-grabs.net",
-    "stargazers_count": 5214,
-    "open_issues_count": 61,
-    "forks_count": 1991
+    "stargazers_count": 5217,
+    "open_issues_count": 63,
+    "forks_count": 1992
   },
   {
     "full_name": "iluwatar/java-design-patterns",
-    "stargazers_count": 86660,
-    "open_issues_count": 191,
-    "forks_count": 25933
+    "stargazers_count": 86963,
+    "open_issues_count": 185,
+    "forks_count": 25983
   },
   {
     "full_name": "PhilippC/keepass2android",
-    "stargazers_count": 4484,
-    "open_issues_count": 1014,
+    "stargazers_count": 4494,
+    "open_issues_count": 1015,
     "forks_count": 376
   },
   {
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "slint-ui/slint",
-    "stargazers_count": 15308,
-    "open_issues_count": 516,
-    "forks_count": 499
+    "stargazers_count": 15343,
+    "open_issues_count": 525,
+    "forks_count": 497
   },
   {
     "full_name": "StefanScherer/docker-cli-builder",
@@ -80,7 +80,7 @@
   {
     "full_name": "github-craftwork/start-here",
     "stargazers_count": 92,
-    "open_issues_count": 37,
+    "open_issues_count": 38,
     "forks_count": 105
   },
   {
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "ikatyang/emoji-cheat-sheet",
-    "stargazers_count": 11914,
-    "open_issues_count": 55,
-    "forks_count": 4379
+    "stargazers_count": 11926,
+    "open_issues_count": 54,
+    "forks_count": 4380
   },
   {
     "full_name": "coryhouse/7-pillar-developer",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "franneck94/VSCodeGuide",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 0,
     "forks_count": 27
   },
@@ -157,21 +157,21 @@
   },
   {
     "full_name": "pcottle/learnGitBranching",
-    "stargazers_count": 29795,
+    "stargazers_count": 29809,
     "open_issues_count": 28,
-    "forks_count": 5684
+    "forks_count": 5687
   },
   {
     "full_name": "asciidoctor/asciidoctor.org",
-    "stargazers_count": 320,
+    "stargazers_count": 319,
     "open_issues_count": 52,
     "forks_count": 803
   },
   {
     "full_name": "raspberrypi/documentation",
-    "stargazers_count": 5104,
-    "open_issues_count": 62,
-    "forks_count": 1975
+    "stargazers_count": 5110,
+    "open_issues_count": 60,
+    "forks_count": 1974
   },
   {
     "full_name": "ctolkmit/jsdoc3-maven-plugin",
