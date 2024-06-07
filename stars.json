@@ -1,9 +1,9 @@
 [
   {
     "full_name": "mermaid-js/mermaid",
-    "stargazers_count": 67999,
-    "open_issues_count": 963,
-    "forks_count": 5943
+    "stargazers_count": 68086,
+    "open_issues_count": 966,
+    "forks_count": 5957
   },
   {
     "full_name": "ricwtk/markee",
@@ -19,20 +19,20 @@
   },
   {
     "full_name": "up-for-grabs/up-for-grabs.net",
-    "stargazers_count": 5230,
-    "open_issues_count": 61,
-    "forks_count": 1997
+    "stargazers_count": 5234,
+    "open_issues_count": 62,
+    "forks_count": 1999
   },
   {
     "full_name": "iluwatar/java-design-patterns",
-    "stargazers_count": 87662,
-    "open_issues_count": 155,
-    "forks_count": 26090
+    "stargazers_count": 87725,
+    "open_issues_count": 153,
+    "forks_count": 26110
   },
   {
     "full_name": "PhilippC/keepass2android",
-    "stargazers_count": 4515,
-    "open_issues_count": 1017,
+    "stargazers_count": 4523,
+    "open_issues_count": 1019,
     "forks_count": 378
   },
   {
@@ -49,8 +49,8 @@
   },
   {
     "full_name": "slint-ui/slint",
-    "stargazers_count": 15521,
-    "open_issues_count": 530,
+    "stargazers_count": 15551,
+    "open_issues_count": 519,
     "forks_count": 500
   },
   {
@@ -122,8 +122,8 @@
   {
     "full_name": "ikatyang/emoji-cheat-sheet",
     "stargazers_count": 11993,
-    "open_issues_count": 57,
-    "forks_count": 4392
+    "open_issues_count": 58,
+    "forks_count": 4393
   },
   {
     "full_name": "coryhouse/7-pillar-developer",
@@ -153,13 +153,13 @@
     "full_name": "cyclic-software/starter-react-app",
     "stargazers_count": 17,
     "open_issues_count": 9,
-    "forks_count": 3880
+    "forks_count": 3875
   },
   {
     "full_name": "pcottle/learnGitBranching",
-    "stargazers_count": 29883,
-    "open_issues_count": 30,
-    "forks_count": 5706
+    "stargazers_count": 29912,
+    "open_issues_count": 31,
+    "forks_count": 5709
   },
   {
     "full_name": "asciidoctor/asciidoctor.org",
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "raspberrypi/documentation",
-    "stargazers_count": 5126,
-    "open_issues_count": 61,
-    "forks_count": 1976
+    "stargazers_count": 5128,
+    "open_issues_count": 58,
+    "forks_count": 1977
   },
   {
     "full_name": "ctolkmit/jsdoc3-maven-plugin",
