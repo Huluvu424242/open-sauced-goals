@@ -7,9 +7,9 @@
   },
   {
     "full_name": "mermaid-js/mermaid",
-    "stargazers_count": 68335,
-    "open_issues_count": 974,
-    "forks_count": 5998
+    "stargazers_count": 68413,
+    "open_issues_count": 957,
+    "forks_count": 6018
   },
   {
     "full_name": "ricwtk/markee",
@@ -19,27 +19,27 @@
   },
   {
     "full_name": "stleary/JSON-java",
-    "stargazers_count": 4484,
+    "stargazers_count": 4485,
     "open_issues_count": 36,
     "forks_count": 2555
   },
   {
     "full_name": "up-for-grabs/up-for-grabs.net",
-    "stargazers_count": 5242,
-    "open_issues_count": 68,
+    "stargazers_count": 5245,
+    "open_issues_count": 67,
     "forks_count": 2005
   },
   {
     "full_name": "iluwatar/java-design-patterns",
-    "stargazers_count": 87993,
-    "open_issues_count": 146,
-    "forks_count": 26131
+    "stargazers_count": 88048,
+    "open_issues_count": 144,
+    "forks_count": 26141
   },
   {
     "full_name": "PhilippC/keepass2android",
-    "stargazers_count": 4539,
-    "open_issues_count": 1025,
-    "forks_count": 377
+    "stargazers_count": 4546,
+    "open_issues_count": 1028,
+    "forks_count": 376
   },
   {
     "full_name": "generate/generate-editorconfig",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "slint-ui/slint",
-    "stargazers_count": 15670,
-    "open_issues_count": 523,
-    "forks_count": 506
+    "stargazers_count": 15730,
+    "open_issues_count": 528,
+    "forks_count": 511
   },
   {
     "full_name": "StefanScherer/docker-cli-builder",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "ikatyang/emoji-cheat-sheet",
-    "stargazers_count": 12022,
+    "stargazers_count": 12041,
     "open_issues_count": 60,
-    "forks_count": 4401
+    "forks_count": 4403
   },
   {
     "full_name": "coryhouse/7-pillar-developer",
@@ -159,24 +159,24 @@
     "full_name": "cyclic-software/starter-react-app",
     "stargazers_count": 17,
     "open_issues_count": 9,
-    "forks_count": 3863
+    "forks_count": 3859
   },
   {
     "full_name": "pcottle/learnGitBranching",
-    "stargazers_count": 29986,
-    "open_issues_count": 31,
+    "stargazers_count": 30017,
+    "open_issues_count": 30,
     "forks_count": 5710
   },
   {
     "full_name": "asciidoctor/asciidoctor.org",
-    "stargazers_count": 321,
+    "stargazers_count": 322,
     "open_issues_count": 52,
     "forks_count": 806
   },
   {
     "full_name": "raspberrypi/documentation",
-    "stargazers_count": 5135,
-    "open_issues_count": 56,
+    "stargazers_count": 5141,
+    "open_issues_count": 54,
     "forks_count": 1979
   }
 ]
