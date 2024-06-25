@@ -7,9 +7,9 @@
   },
   {
     "full_name": "mermaid-js/mermaid",
-    "stargazers_count": 68413,
-    "open_issues_count": 957,
-    "forks_count": 6018
+    "stargazers_count": 68492,
+    "open_issues_count": 959,
+    "forks_count": 6037
   },
   {
     "full_name": "ricwtk/markee",
@@ -19,26 +19,26 @@
   },
   {
     "full_name": "stleary/JSON-java",
-    "stargazers_count": 4485,
-    "open_issues_count": 36,
+    "stargazers_count": 4487,
+    "open_issues_count": 37,
     "forks_count": 2555
   },
   {
     "full_name": "up-for-grabs/up-for-grabs.net",
-    "stargazers_count": 5245,
-    "open_issues_count": 67,
-    "forks_count": 2005
+    "stargazers_count": 5248,
+    "open_issues_count": 72,
+    "forks_count": 2003
   },
   {
     "full_name": "iluwatar/java-design-patterns",
-    "stargazers_count": 88048,
-    "open_issues_count": 144,
-    "forks_count": 26141
+    "stargazers_count": 88106,
+    "open_issues_count": 146,
+    "forks_count": 26145
   },
   {
     "full_name": "PhilippC/keepass2android",
-    "stargazers_count": 4546,
-    "open_issues_count": 1028,
+    "stargazers_count": 4559,
+    "open_issues_count": 1032,
     "forks_count": 376
   },
   {
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "slint-ui/slint",
-    "stargazers_count": 15730,
-    "open_issues_count": 528,
-    "forks_count": 511
+    "stargazers_count": 15822,
+    "open_issues_count": 529,
+    "forks_count": 514
   },
   {
     "full_name": "StefanScherer/docker-cli-builder",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "ikatyang/emoji-cheat-sheet",
-    "stargazers_count": 12041,
-    "open_issues_count": 60,
-    "forks_count": 4403
+    "stargazers_count": 12047,
+    "open_issues_count": 61,
+    "forks_count": 4404
   },
   {
     "full_name": "coryhouse/7-pillar-developer",
@@ -159,13 +159,13 @@
     "full_name": "cyclic-software/starter-react-app",
     "stargazers_count": 17,
     "open_issues_count": 9,
-    "forks_count": 3859
+    "forks_count": 3857
   },
   {
     "full_name": "pcottle/learnGitBranching",
-    "stargazers_count": 30017,
+    "stargazers_count": 30032,
     "open_issues_count": 30,
-    "forks_count": 5710
+    "forks_count": 5711
   },
   {
     "full_name": "asciidoctor/asciidoctor.org",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "raspberrypi/documentation",
-    "stargazers_count": 5141,
+    "stargazers_count": 5145,
     "open_issues_count": 54,
-    "forks_count": 1979
+    "forks_count": 1980
   }
 ]
