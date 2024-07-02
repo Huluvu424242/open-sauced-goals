@@ -1,9 +1,9 @@
 [
   {
     "full_name": "mermaid-js/mermaid",
-    "stargazers_count": 68574,
-    "open_issues_count": 963,
-    "forks_count": 6045
+    "stargazers_count": 68659,
+    "open_issues_count": 961,
+    "forks_count": 6062
   },
   {
     "full_name": "ricwtk/markee",
@@ -13,26 +13,26 @@
   },
   {
     "full_name": "stleary/JSON-java",
-    "stargazers_count": 4488,
-    "open_issues_count": 36,
+    "stargazers_count": 4487,
+    "open_issues_count": 35,
     "forks_count": 2555
   },
   {
     "full_name": "up-for-grabs/up-for-grabs.net",
-    "stargazers_count": 5250,
-    "open_issues_count": 69,
+    "stargazers_count": 5251,
+    "open_issues_count": 73,
     "forks_count": 2005
   },
   {
     "full_name": "iluwatar/java-design-patterns",
-    "stargazers_count": 88175,
-    "open_issues_count": 146,
-    "forks_count": 26168
+    "stargazers_count": 88234,
+    "open_issues_count": 145,
+    "forks_count": 26182
   },
   {
     "full_name": "PhilippC/keepass2android",
-    "stargazers_count": 4569,
-    "open_issues_count": 1036,
+    "stargazers_count": 4575,
+    "open_issues_count": 1038,
     "forks_count": 377
   },
   {
@@ -43,19 +43,19 @@
   },
   {
     "full_name": "WPS/egon.io-website",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "slint-ui/slint",
-    "stargazers_count": 15861,
-    "open_issues_count": 534,
-    "forks_count": 517
+    "stargazers_count": 15896,
+    "open_issues_count": 528,
+    "forks_count": 520
   },
   {
     "full_name": "StefanScherer/docker-cli-builder",
-    "stargazers_count": 247,
+    "stargazers_count": 248,
     "open_issues_count": 1,
     "forks_count": 33
   },
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "ikatyang/emoji-cheat-sheet",
-    "stargazers_count": 12054,
+    "stargazers_count": 12071,
     "open_issues_count": 61,
-    "forks_count": 4406
+    "forks_count": 4405
   },
   {
     "full_name": "coryhouse/7-pillar-developer",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "codespaces-examples/rust",
-    "stargazers_count": 152,
+    "stargazers_count": 153,
     "open_issues_count": 5,
     "forks_count": 123
   },
@@ -153,25 +153,25 @@
     "full_name": "cyclic-software/starter-react-app",
     "stargazers_count": 17,
     "open_issues_count": 9,
-    "forks_count": 3856
+    "forks_count": 3853
   },
   {
     "full_name": "pcottle/learnGitBranching",
-    "stargazers_count": 30044,
-    "open_issues_count": 30,
-    "forks_count": 5712
+    "stargazers_count": 30069,
+    "open_issues_count": 31,
+    "forks_count": 5716
   },
   {
     "full_name": "asciidoctor/asciidoctor.org",
     "stargazers_count": 322,
     "open_issues_count": 52,
-    "forks_count": 807
+    "forks_count": 808
   },
   {
     "full_name": "raspberrypi/documentation",
     "stargazers_count": 5150,
-    "open_issues_count": 54,
-    "forks_count": 1981
+    "open_issues_count": 55,
+    "forks_count": 1982
   },
   {
     "full_name": "ctolkmit/jsdoc3-maven-plugin",
