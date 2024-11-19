@@ -1,21 +1,21 @@
 [
   {
     "full_name": "mrusme/superhighway84",
-    "stargazers_count": 719,
+    "stargazers_count": 720,
     "open_issues_count": 17,
     "forks_count": 23
   },
   {
     "full_name": "denysdovhan/wtfjs",
-    "stargazers_count": 35214,
+    "stargazers_count": 35238,
     "open_issues_count": 41,
-    "forks_count": 2554
+    "forks_count": 2555
   },
   {
     "full_name": "mermaid-js/mermaid",
-    "stargazers_count": 72325,
-    "open_issues_count": 1124,
-    "forks_count": 6586
+    "stargazers_count": 72445,
+    "open_issues_count": 1131,
+    "forks_count": 6602
   },
   {
     "full_name": "ricwtk/markee",
@@ -25,26 +25,26 @@
   },
   {
     "full_name": "stleary/JSON-java",
-    "stargazers_count": 4533,
+    "stargazers_count": 4539,
     "open_issues_count": 30,
     "forks_count": 2558
   },
   {
     "full_name": "up-for-grabs/up-for-grabs.net",
-    "stargazers_count": 5405,
-    "open_issues_count": 71,
-    "forks_count": 2068
+    "stargazers_count": 5407,
+    "open_issues_count": 80,
+    "forks_count": 2072
   },
   {
     "full_name": "iluwatar/java-design-patterns",
-    "stargazers_count": 89999,
-    "open_issues_count": 150,
-    "forks_count": 26604
+    "stargazers_count": 90035,
+    "open_issues_count": 147,
+    "forks_count": 26609
   },
   {
     "full_name": "PhilippC/keepass2android",
-    "stargazers_count": 4834,
-    "open_issues_count": 1081,
+    "stargazers_count": 4843,
+    "open_issues_count": 1084,
     "forks_count": 390
   },
   {
@@ -56,14 +56,14 @@
   {
     "full_name": "WPS/egon.io-website",
     "stargazers_count": 9,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "slint-ui/slint",
-    "stargazers_count": 17582,
-    "open_issues_count": 685,
-    "forks_count": 604
+    "stargazers_count": 17605,
+    "open_issues_count": 691,
+    "forks_count": 605
   },
   {
     "full_name": "StefanScherer/docker-cli-builder",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "ikatyang/emoji-cheat-sheet",
-    "stargazers_count": 12493,
+    "stargazers_count": 12499,
     "open_issues_count": 75,
-    "forks_count": 4462
+    "forks_count": 4461
   },
   {
     "full_name": "coryhouse/7-pillar-developer",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "pcottle/learnGitBranching",
-    "stargazers_count": 30669,
+    "stargazers_count": 30687,
     "open_issues_count": 34,
-    "forks_count": 5758
+    "forks_count": 5757
   },
   {
     "full_name": "asciidoctor/asciidoctor.org",
-    "stargazers_count": 323,
+    "stargazers_count": 324,
     "open_issues_count": 52,
-    "forks_count": 803
+    "forks_count": 805
   }
 ]
