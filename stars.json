@@ -7,27 +7,27 @@
   },
   {
     "full_name": "gramps-project/gramps-web",
-    "stargazers_count": 619,
+    "stargazers_count": 628,
     "open_issues_count": 69,
     "forks_count": 72
   },
   {
     "full_name": "mrusme/superhighway84",
-    "stargazers_count": 734,
-    "open_issues_count": 17,
+    "stargazers_count": 735,
+    "open_issues_count": 18,
     "forks_count": 23
   },
   {
     "full_name": "denysdovhan/wtfjs",
-    "stargazers_count": 36004,
+    "stargazers_count": 36023,
     "open_issues_count": 44,
     "forks_count": 2585
   },
   {
     "full_name": "mermaid-js/mermaid",
-    "stargazers_count": 76642,
-    "open_issues_count": 1276,
-    "forks_count": 7123
+    "stargazers_count": 76779,
+    "open_issues_count": 1277,
+    "forks_count": 7138
   },
   {
     "full_name": "ricwtk/markee",
@@ -37,26 +37,26 @@
   },
   {
     "full_name": "stleary/JSON-java",
-    "stargazers_count": 4583,
-    "open_issues_count": 28,
-    "forks_count": 2567
+    "stargazers_count": 4586,
+    "open_issues_count": 29,
+    "forks_count": 2568
   },
   {
     "full_name": "up-for-grabs/up-for-grabs.net",
-    "stargazers_count": 5612,
-    "open_issues_count": 51,
-    "forks_count": 2142
+    "stargazers_count": 5616,
+    "open_issues_count": 52,
+    "forks_count": 2144
   },
   {
     "full_name": "iluwatar/java-design-patterns",
-    "stargazers_count": 90956,
-    "open_issues_count": 154,
-    "forks_count": 26835
+    "stargazers_count": 90991,
+    "open_issues_count": 148,
+    "forks_count": 26842
   },
   {
     "full_name": "PhilippC/keepass2android",
-    "stargazers_count": 5047,
-    "open_issues_count": 1103,
+    "stargazers_count": 5050,
+    "open_issues_count": 1090,
     "forks_count": 401
   },
   {
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "slint-ui/slint",
-    "stargazers_count": 18587,
-    "open_issues_count": 741,
-    "forks_count": 644
+    "stargazers_count": 18624,
+    "open_issues_count": 740,
+    "forks_count": 645
   },
   {
     "full_name": "StefanScherer/docker-cli-builder",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "ikatyang/emoji-cheat-sheet",
-    "stargazers_count": 12882,
+    "stargazers_count": 12895,
     "open_issues_count": 64,
-    "forks_count": 4508
+    "forks_count": 4507
   },
   {
     "full_name": "coryhouse/7-pillar-developer",
@@ -165,7 +165,7 @@
     "full_name": "codespaces-examples/rust",
     "stargazers_count": 165,
     "open_issues_count": 4,
-    "forks_count": 129
+    "forks_count": 130
   },
   {
     "full_name": "franneck94/VSCodeGuide",
@@ -177,6 +177,6 @@
     "full_name": "cyclic-software/starter-react-app",
     "stargazers_count": 17,
     "open_issues_count": 9,
-    "forks_count": 3712
+    "forks_count": 3710
   }
 ]
