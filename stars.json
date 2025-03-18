@@ -14,20 +14,20 @@
   {
     "full_name": "mrusme/superhighway84",
     "stargazers_count": 735,
-    "open_issues_count": 18,
+    "open_issues_count": 17,
     "forks_count": 23
   },
   {
     "full_name": "denysdovhan/wtfjs",
-    "stargazers_count": 36023,
+    "stargazers_count": 36040,
     "open_issues_count": 44,
-    "forks_count": 2585
+    "forks_count": 2588
   },
   {
     "full_name": "mermaid-js/mermaid",
-    "stargazers_count": 76779,
-    "open_issues_count": 1277,
-    "forks_count": 7138
+    "stargazers_count": 76920,
+    "open_issues_count": 1286,
+    "forks_count": 7171
   },
   {
     "full_name": "ricwtk/markee",
@@ -38,25 +38,25 @@
   {
     "full_name": "stleary/JSON-java",
     "stargazers_count": 4586,
-    "open_issues_count": 29,
+    "open_issues_count": 30,
     "forks_count": 2568
   },
   {
     "full_name": "up-for-grabs/up-for-grabs.net",
-    "stargazers_count": 5616,
-    "open_issues_count": 52,
-    "forks_count": 2144
+    "stargazers_count": 5620,
+    "open_issues_count": 61,
+    "forks_count": 2145
   },
   {
     "full_name": "iluwatar/java-design-patterns",
-    "stargazers_count": 90991,
-    "open_issues_count": 148,
-    "forks_count": 26842
+    "stargazers_count": 91008,
+    "open_issues_count": 149,
+    "forks_count": 26847
   },
   {
     "full_name": "PhilippC/keepass2android",
-    "stargazers_count": 5050,
-    "open_issues_count": 1090,
+    "stargazers_count": 5066,
+    "open_issues_count": 1091,
     "forks_count": 401
   },
   {
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "slint-ui/slint",
-    "stargazers_count": 18624,
-    "open_issues_count": 740,
-    "forks_count": 645
+    "stargazers_count": 18643,
+    "open_issues_count": 750,
+    "forks_count": 644
   },
   {
     "full_name": "StefanScherer/docker-cli-builder",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "ikatyang/emoji-cheat-sheet",
-    "stargazers_count": 12895,
+    "stargazers_count": 12906,
     "open_issues_count": 64,
-    "forks_count": 4507
+    "forks_count": 4508
   },
   {
     "full_name": "coryhouse/7-pillar-developer",
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "codespaces-examples/rust",
-    "stargazers_count": 165,
+    "stargazers_count": 168,
     "open_issues_count": 4,
     "forks_count": 130
   },
@@ -177,6 +177,6 @@
     "full_name": "cyclic-software/starter-react-app",
     "stargazers_count": 17,
     "open_issues_count": 9,
-    "forks_count": 3710
+    "forks_count": 3708
   }
 ]
